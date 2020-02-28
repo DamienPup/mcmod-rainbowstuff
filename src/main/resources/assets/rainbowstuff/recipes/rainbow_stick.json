@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" N ",
+		"X#X",
+		" N "
+	],
+	"key": {
+		"X": {
+			"item": "rainbowstuff:rainbow_ingot"
+		},
+		"#": {
+			"item": "minecraft:stick"
+		},
+		"N": {
+			"item": "rainbowstuff:rainbow_nugget"
+		}
+	},
+	"result": {
+		"item": "rainbowstuff:rainbow_stick",
+		"count": 4
+	}
+}

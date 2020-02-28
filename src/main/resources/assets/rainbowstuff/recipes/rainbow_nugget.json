@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"X"
+	],
+	"key": {
+		"X": {
+			"item": "rainbowstuff:rainbow_ingot"
+		}
+	},
+	"result": {
+		"item": "rainbow_nugget",
+		"count": 9
+	}
+}
