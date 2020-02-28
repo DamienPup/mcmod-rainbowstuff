@@ -1,32 +1,49 @@
 # Rainbow Stuff Relase 1.0.0
 
-Crafting Recipes:\n
+Crafting Recipes: 
 
-Rainbow Ore needs to be mined.\n
+Rainbow Ore needs to be mined. 
 
-Rainbow Nuggets Recipe:\n
-X\n
-where X is Rainbow Ingot.\n
+Rainbow Nuggets Recipe: 
 
-Rainbow Ingots Recipe:\n
-XXX\n
-XXX\n
-XXX\n
-where X is Rainbow Nugget.\n
-or\n
-X where X is Rainbow Block\n
+X 
 
-Rainbow Block Recipe:\n
-XXX\n
-XXX\n
-XXX\n
-where X is Rainbow Ingot\n
+where X is Rainbow Ingot. 
 
-Rainbow armor cna be crafted lke normal armor\n
-The same can be sais for Rainbow tools execpt that you need Rainbow Sticks instead of Stick\n
+Rainbow Ingots Recipe: 
 
-Rainbow Stick Recipe:\n
- N\n
-XSX\n
- N\n
-where X is Rainbow Ingot, N is Rainbow Nugget, and S is Stick.\n
+XXX 
+
+XXX 
+
+XXX 
+
+where X is Rainbow Nugget. 
+
+or 
+
+X where X is Rainbow Block.
+
+Rainbow Block Recipe: 
+
+XXX 
+
+XXX 
+
+XXX 
+
+where X is Rainbow Ingot.
+
+Rainbow armor cna be crafted lke normal armor.
+
+The same can be said for Rainbow tools execpt that you need Rainbow Sticks instead of Sticks.
+
+Rainbow Stick Recipe: 
+
+ N 
+
+XSX 
+
+ N 
+
+where X is Rainbow Ingot, N is Rainbow Nugget, and S is Stick.
