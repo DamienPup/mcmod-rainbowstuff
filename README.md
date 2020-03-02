@@ -1,4 +1,12 @@
-# Rainbow Stuff Relase 1.0.0
+# Rainbow Stuff Relase 1.1.0
+
+Changes:
+
+-Added Rainbow Chest. Crafting recipe below.
+
+-Added more furnace recipes.
+
+-Added a new mob: "Raincow". Currently Creative Only.
 
 This mod adds rainbow stuff to the game.
 
@@ -11,6 +19,8 @@ Rainbow Nuggets Recipe:
 X 
 
 where X is Rainbow Ingot. 
+
+You can also get rainbow nuggets from smelting rainbow ore, tools, armor, and sticks.
 
 Rainbow Ingots Recipe: 
 
@@ -47,6 +57,8 @@ XSX
 N 
 
 where X is Rainbow Ingot, N is Rainbow Nugget, and S is Stick.
+
+Rainbow Sticks and be used as fuel.
 
 Rainbow armor can be crafted lke normal armor.
 

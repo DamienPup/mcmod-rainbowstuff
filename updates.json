@@ -1,13 +1,14 @@
 {
   "homepage": "https://github.com/DamienPup/mcmod-rainbowstuff",
   "1.12.2": {
-    "1.0.0": "Mod was created. Full chage log: https://github.com/DamienPup/mcmod-rainbowstuff", 
+    "1.0.0": "Mod was created. Full chage log: https://github.com/DamienPup/mcmod-rainbowstuff",
+	"1.1.0": "Added Raincows, Rainbow Chests, and funace recipes. Full chage log: https://github.com/DamienPup/mcmod-rainbowstuff"
     // List all versions of your mod for the given Minecraft version, along with their changelogs
   },
   "promos": {
-    "1.12.2-latest": "1.0.0",
+    "1.12.2-latest": "1.1.0",
     // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
-    "1.12.2-recommended": "1.0.0",
+    "1.12.2-recommended": "1.1.0"
     // Declare the latest "stable" version of your mod for the given Minecraft version
   }
 }
