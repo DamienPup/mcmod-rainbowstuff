@@ -2,7 +2,7 @@
 
 Changes:
 
-+Added Rainbow Chest Recipe. (if someone know how to make the face whatever direction the player faces (they don't) or do double chesting (they also don't), please correct the code or let me know).
++Added Rainbow Chest Recipe. (if someone know how to make the face whatever direction the player faces (they don't) or do double chesting (they also don't), please correct the code or let me know). HOTFIX WHERE RECIPE CRAFTED WRONG ITEM
 
 This mod adds rainbow stuff to the game.
 
