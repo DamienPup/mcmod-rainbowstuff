@@ -23,7 +23,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 public class RainbowStuff {
 	public static final String MODID = "rainbowstuff";
 	public static final String NAME = "Rainbow Stuff";
-	public static final String VERSION = "1.1.0";
+	public static final String VERSION = "1.1.1";
 	public static final String MC_VERSION = "[1.12.2]";
 	public static final CreativeTabs RAINBOW_TAB = new RainbowTab();
 	

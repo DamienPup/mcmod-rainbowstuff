@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"NIN",
+		"IXI",
+		"NIN"
+	],
+	"key": {
+		"X": {
+			"item": "minecraft:chest"
+		},
+		"N": {
+			"item": "rainbowstuff:rainbow_nugget"
+		},
+		"I": {
+			"item": "rainbowstuff:rainbow_ingot"
+		}
+	},
+	"result": {
+		"item": "rainbowstuff:rainbow_boots"
+	}
+}

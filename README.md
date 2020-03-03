@@ -1,12 +1,8 @@
-# Rainbow Stuff Relase 1.1.0
+# Rainbow Stuff Relase 1.1.1
 
 Changes:
 
--Added Rainbow Chest. forgot to add recipe... will do that on 3/3/2020
-
--Added more furnace recipes.
-
--Added a new mob: "Raincow". Currently Creative Only.
++Added Rainbow Chest Recipe. (if someone know how to make the face whatever direction the player faces (they don't) or do double chesting (they also don't), please correct the code or let me know).
 
 This mod adds rainbow stuff to the game.
 
@@ -64,4 +60,16 @@ Rainbow armor can be crafted lke normal armor.
 
 The same can be said for Rainbow tools execpt that you need Rainbow Sticks instead of Sticks.
 
-The tools and armore are even beeter than diamond.
+The tools and armoer are even beeter than diamond.
+
+Rainbow Chest Recipe:
+
+NIN
+
+IXI
+
+NIN
+
+where X is chest, I is rainbow ingot and N and rainbow nugget
+
+Rainbow Chests are bigger than normal chests.
