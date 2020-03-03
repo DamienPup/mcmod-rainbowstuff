@@ -2,7 +2,7 @@
 
 Changes:
 
--Added Rainbow Chest. Crafting recipe below.
+-Added Rainbow Chest. forgot to add recipe... will do that on 3/3/2020
 
 -Added more furnace recipes.
 
